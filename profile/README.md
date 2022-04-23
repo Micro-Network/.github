@@ -6,7 +6,7 @@ Micro Network is a network that consists of multiple bots for all your server ne
 
 Erlend | Design, marketing & frontend responsible
 
-Danny | Bots & backend responsible
+Dann | Bots & backend responsible
 
 Sander | Website frontend responsible
 
