@@ -10,7 +10,7 @@ Danny | Bots & backend responsible
 
 Sander | Website frontend responsible
 
-Check out the [staff page](https://microbot.me/staff/) to get more information.
+Check out the [staff page](https://microbot.me/staff) to get more information.
 
 ## Projects
 [Micro](https://microbot.me)
@@ -20,6 +20,6 @@ Check out the [staff page](https://microbot.me/staff/) to get more information.
 [MicroMusic](https://music.microbot.me) - Discontinued
 
 ## Agreements
-[Terms of Service](https://microbot.me/terms/)
+[Terms of Service](https://microbot.me/terms)
 
-[Privacy Policy](https://microbot.me/privacy/)
+[Privacy Policy](https://microbot.me/privacy)
