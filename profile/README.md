@@ -15,7 +15,7 @@ Check out the [staff page](https://microbot.me/staff) to get more information.
 ## Projects
 `v2.1.3` | **[Micro](https://microbot.me)**
 
-`v1.0.0` | *[MicroMail](https://mail.microbot.me)** - Put on hold
+`v1.0.0` | **[MicroMail](https://mail.microbot.me)** - Put on hold
 
 `vX.X.X` | **[MicroMusic](https://music.microbot.me)** - Discontinued
 
