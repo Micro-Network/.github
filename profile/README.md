@@ -1,3 +1,5 @@
+![Micro Network Banner](https://i.microbot.me/uploads/Micro_Blue_Twitter.png "Micro Network Banner")
+
 # About Micro Network
 
 Micro Network is a network that consists of multiple bots for all your server needs.
@@ -23,5 +25,3 @@ Check out the [staff page](https://microbot.me/staff) to get more information.
 [Terms of Service](https://microbot.me/terms)
 
 [Privacy Policy](https://microbot.me/privacy)
-
-![Micro Network Banner](https://i.microbot.me/uploads/Micro_Blue_Twitter.png "Micro Network Banner")
