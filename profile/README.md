@@ -23,3 +23,5 @@ Check out the [staff page](https://microbot.me/staff) to get more information.
 [Terms of Service](https://microbot.me/terms)
 
 [Privacy Policy](https://microbot.me/privacy)
+
+[![Micro Network Banner](https://i.microbot.me/uploads/Micro_Blue_Twitter.png "Micro Network Banner")]
