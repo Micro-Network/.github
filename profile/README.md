@@ -22,6 +22,6 @@ Check out the [staff page](https://microbot.me/staff) to get more information.
 `vX.X.X` | **[MicroMusic](https://music.microbot.me)** - Discontinued
 
 ## Agreements
-:paperclip: [Terms of Service](https://microbot.me/terms)
+:link: [Terms of Service](https://microbot.me/terms)
 
-:paperclip: [Privacy Policy](https://microbot.me/privacy)
+:link: [Privacy Policy](https://microbot.me/privacy)
