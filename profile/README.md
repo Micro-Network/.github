@@ -12,6 +12,10 @@ Dann | Bots & backend responsible
 
 Sander | Website frontend responsible
 
+Dizzy | Design & artwork responsible
+
+John | Administration & management responsible
+
 Check out the [staff page](https://microbot.me/staff) to get more information.
 
 ## Projects
